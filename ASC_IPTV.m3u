@@ -75,7 +75,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="CLIPS", The Retro Channel
 http://198.24.183.198:1936/theretrochannel/stream/playlist.m3u8
 
-
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51LcECmODxL.png" , Kids
 http://192.99.150.31:9431/stream
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51LcECmODxL.png" , MPB
@@ -220,7 +219,7 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_
 http://sv1.nowiptv.net:8880/EDI/1749/33658
 #EXTINF:0 group-title="ADULTO" tvg-name="Playboy TV" tvg-logo="http://nowiptv.net/_logos/playboy_fhd.png" , Playboy FHD₂
 http://sv1.nowiptv.net:8880/EDI/1749/33602
-#EXTINF:0 tvg-id="Playboytv.br" tvg-name="PLAYBOY FHD H265" tvg-logo="https://i1.wp.com/telaviva.com.br/wp-content/uploads/2018/05/playboy.jpg" group-title=" ADULTO",XXX: PLAYBOY FHD H265
+#EXTINF:0 tvg-id="Playboytv.br" tvg-name="PLAYBOY FHD H265" tvg-logo="https://i1.wp.com/telaviva.com.br/wp-content/uploads/2018/05/playboy.jpg" group-title="ADULTO",XXX: PLAYBOY FHD H265
 http://p2prime.xyz:80/pauloh10/p10auloh/14294
 #EXTINF:0 group-title="ADULTO" tvg-name="Playboy" tvg-logo="http://nowiptv.net/_logos/playboy_hd.png" , Playboy HD₁
 http://sv1.nowiptv.net:8880/EDI/1749/33659
@@ -257,4 +256,3 @@ http://p2prime.xyz:80/pauloh10/p10auloh/14301
 
 #EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_a_crc3adtica.png" group-title="Teste", TV A Crítica
 https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist.m3u8
-
